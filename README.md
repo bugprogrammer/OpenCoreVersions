@@ -1,1 +1,3 @@
 # OpenCoreVersions
+
+为HackintoshBuild应用中的“OpenCore版本一览”功能提供数据源
